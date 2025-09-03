@@ -9,3 +9,4 @@ const Applications = () => {
 }
 
 export default Applications
+Applications
